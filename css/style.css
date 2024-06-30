@@ -119,6 +119,6 @@ footer .r-icon a {
 
 footer .r-icon a:hover {
   color: #eee;
-  transition: 0.5s all;
+  transition: 1s all;
   font-size: 35px;
 }
